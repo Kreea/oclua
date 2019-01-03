@@ -64,6 +64,4 @@ while true do
             end
         end
     end
-    io.write("Sleeping for " .. loopDelay .. " seconds...\n\n")
-    os.sleep(loopDelay)
 end
